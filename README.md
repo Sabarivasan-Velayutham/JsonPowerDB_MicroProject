@@ -1,6 +1,6 @@
 # Student-Enrollment-Form
 ## Description 
-This is a web based html form for student enrollment using JsonPowerDB as Database 
+This is a web based html form for student enrollment using JsonPowerDB as Database<br>
 JsonPowerDB is used to perform CRUD operation 
 
 # Benefits of using JsonPowerDB
